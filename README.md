@@ -1,6 +1,6 @@
 # Dados
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project is about a simple dice roller and it was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
 

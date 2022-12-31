@@ -1,0 +1,36 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.img {
+  width: 7rem;
+  margin: 1rem;
+  background-color: black;
+  border-radius: 0.5rem;
+  border: 0.05rem solid black;
+}
+
+.badge {
+  background-color: rgb(105, 105, 243);
+}
+
+@media (min-width: 768px) {
+  .btn {
+    font-size: 1.8rem;
+  }
+
+  .img {
+    width: 15rem;
+    border-radius: 1.5rem;
+    border: 0.1rem solid black;
+  }
+}
